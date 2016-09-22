@@ -1,5 +1,5 @@
 # AndroidRootCheck
 
-Small Library which checks if the device is rooted.
+Library which checks if the device is rooted.
 
-Include in android app where InfoSec is important to reduce the data leaks from app.
+Small size <50kb. Faster and reliable
